@@ -1,0 +1,6 @@
+framework module MiniAppOne {
+  umbrella header "MiniAppOne.h"
+  export *
+
+  module * { export * }
+}
